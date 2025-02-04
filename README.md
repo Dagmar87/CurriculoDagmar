@@ -3,6 +3,6 @@
 Os Curriculos de José Dagmar Florentino da Silva Sobrinho
 
 Tem 3 tipos de curriculo:
-- Para vagas de Desenvolvedor
-- Para vagas de Programador
+- Curriculo em Português
+- Curriculo em Inglês
 - Curriculo Completo incluindo formação, experiencia e conhecimento na área de programação
